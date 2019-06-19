@@ -1,0 +1,23 @@
+h1{
+  color: #FF8645;
+  font-family: 'Monoton', cursive;
+}
+h2{
+  color: #FF9157;
+  font-family: 'Monoton', cursive;
+}
+p{
+  background-color: #1DB3AD;
+  color: white;
+  font-family: 'Bree Serif', serif;
+}
+div{
+  background-color: white;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  top: 96%;
+  left: .7%;
+    font-family: 'Bree Serif', serif;
+    color: #1DB3AD;
+}
